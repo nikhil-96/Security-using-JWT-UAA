@@ -1,4 +1,4 @@
-package com.kkd.zuulgateway;
+package com.security.zuulgateway;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
